@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![wakatime](https://wakatime.com/badge/user/018bb640-4b9a-4222-9856-aa5bdeb313bd.svg)](https://wakatime.com/@018bb640-4b9a-4222-9856-aa5bdeb313bd)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
