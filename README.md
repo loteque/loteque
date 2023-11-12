@@ -1,26 +1,11 @@
-<!--
-**loteque/loteque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi! This is the github profile of Loteque!
-### Loteque is 
+### I am: 
  - ⌨️ a programmer
  - 📐 an architect for AGILE teams
  - 🎮 an interactive media designer
  - 🎸 an amature musician
 
-### Loteque wants to work with you to achive your next goal, especially on:
+### I want to work with you to achive your next goal, especially on:
   - 🔃 Open Source/Free Software
   - 🎯 Iteractive media, Games, Art Installations
   - 🌐 Decentralized Web Systems
