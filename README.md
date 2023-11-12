@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   - 🎯 Iteractive media, Games, Art Installations
   - 🌐 Decentralized Web Systems
 
-### You can contact Loteque at [loteque@pixelpush.com](mailto:loteque@pxlpush.com)
+### You can contact Loteque at [loteque@pxlpush.com](mailto:loteque@pxlpush.com)
 <!--START_SECTION:waka-->
 
 ```txt
