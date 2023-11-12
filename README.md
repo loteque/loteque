@@ -12,6 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi! This is the github profile of Loteque!
+### Loteque is 
+ - ⌨️ a programmer
+ - 📐 an architect for AGILE teams
+ - 🎮 an interactive media designer
+ - 🎸 an amature musician
+
+### Loteque wants to work with you to achive your next goal, especially on:
+  - 🔃 Open Source/Free Software
+  - 🎯 Iteractive media, Games, Art Installations
+  - 🌐 Decentralized Web Systems
+
+### You can contact Loteque at [loteque@pixelpush.com](mailto:loteque@pxlpush.com)
 <!--START_SECTION:waka-->
 
 ```txt
