@@ -5,7 +5,7 @@
  - 🎮 an interactive media designer
  - 🎸 an amature musician
 
-### I want to work with you to achive your next goal, especially on:
+### I want to work with you to achieve your next goal, especially on:
   - 🔃 Open Source/Free Software
   - 🎯 Iteractive media, Games, Art Installations
   - 🌐 Decentralized Web Systems
