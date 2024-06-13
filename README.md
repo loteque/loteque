@@ -1,4 +1,5 @@
 ### Hi! This is the github profile of Loteque!
+Buy me a **_[coffee!](https://donate.stripe.com/6oE02Y1xn75F6f6144)_**
 ### I am: 
  - ⌨️ a programmer
  - 📐 an architect for AGILE teams
@@ -10,7 +11,6 @@
   - 🎯 Iteractive media, Games, Art Installations
   - 🌐 Decentralized Web Systems
 
-### You can contact Loteque at [loteque@pxlpush.com](mailto:loteque@pxlpush.com)
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Thursday** 
 
