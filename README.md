@@ -10,7 +10,7 @@ Buy me a **_[coffee!](https://donate.stripe.com/6oE02Y1xn75F6f6144)_**
 
 ### I want to work with you to achieve your next goal, especially on:
   - 🔃 Open Source/Free Software
-  - 🎯 Iteractive media, Games, Art Installations
+  - 🎯 Interactive media, Games, Art Installations
   - 🌐 Decentralized Web Systems
 
 <!--START_SECTION:waka-->
