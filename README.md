@@ -13,8 +13,6 @@ Buy me a **_[coffee!](https://donate.stripe.com/6oE02Y1xn75F6f6144)_**
   - 🌐 Decentralized Web Systems
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2057%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.71%20million%20lines%20of%20code-blue?style=flat)
@@ -42,5 +40,5 @@ Lua                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 23/07/2026 03:28:33 UTC
+ Last Updated on 24/07/2026 03:22:38 UTC
 <!--END_SECTION:waka-->
