@@ -34,24 +34,24 @@ Buy me a **_[coffee!](https://donate.stripe.com/6oE02Y1xn75F6f6144)_**
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 42 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 57 mins (100.0%)
 
-✍️ 1,679 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 1,273 lines written by AI, 1 lines written by hand (99.92% AI-written)
 
-🔤 3,404,961 Input Tokens, 612,781 Output Tokens
+🔤 2,446,774 Input Tokens, 434,535 Output Tokens
 
-💵 $20.38 Estimated AI Cost This Week
+💵 $16.30 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 157 AI Prompts
+🧠 14 AI Sessions, 131 AI Prompts
 
-GPT                      1,744 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+GPT                      1,338 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Codex-Vscode             0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 3,784 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 4,006 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
@@ -67,5 +67,5 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 15/10/2026 05:26:08 UTC
+ Last Updated on 16/10/2026 05:22:06 UTC
 <!--END_SECTION:waka-->
