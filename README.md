@@ -17,7 +17,7 @@ Buy me a **_[coffee!](https://donate.stripe.com/6oE02Y1xn75F6f6144)_**
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.54%20million%20lines%20of%20code-blue?style=flat)
 
@@ -34,23 +34,23 @@ Buy me a **_[coffee!](https://donate.stripe.com/6oE02Y1xn75F6f6144)_**
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 17 mins (100.0%)
+⏱ AI Coding Time: 30 mins (100.0%)
 
-✍️ 2,417 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,302,790 Input Tokens, 461,920 Output Tokens
+🔤 72,994 Input Tokens, 15,844 Output Tokens
 
-💵 $14.09 Estimated AI Cost This Week
+💵 $0.04 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 33 AI Prompts
+🧠 1 AI Sessions, 15 AI Prompts
 
-GPT                      2,508 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+GPT                      0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 120 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 33 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
@@ -66,5 +66,5 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 23/10/2026 05:40:25 UTC
+ Last Updated on 24/10/2026 05:26:28 UTC
 <!--END_SECTION:waka-->
